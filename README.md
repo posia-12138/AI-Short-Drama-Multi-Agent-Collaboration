@@ -4,9 +4,9 @@
 
 **Demo（85 秒成片，由系统自动生成剪映工程后导出）**
 
-<video src="https://github.com/posia-12138/AI-Short-Drama-Multi-Agent-Collaboration/raw/main/demo/demo-01.mp4" controls muted width="400"></video>
+[![点击观看 Demo](cover.jpg)](https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4)
 
-> 若上方视频未加载，点此直接观看：[demo/demo-01.mp4](demo/demo-01.mp4)（网页预览版 720p，原片 1080p）
+> ▶ 点击上方封面播放（1080p，浏览器直接播）；或打开直链：<https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4>
 
 > ⚠️ 本页为**脱敏作品展示**：只讲架构与设计思路，不含合作项目的专有代码、剧本与业务数据。**剪辑系统与 Hermes 编排为本人开发；上游「视频生成」由他方完成，本人通过 Hermes 编排接入，不在本人贡献范围内。**
 
