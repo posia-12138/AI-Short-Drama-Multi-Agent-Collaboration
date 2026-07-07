@@ -2,7 +2,11 @@
 
 > 模拟真实剧组「导演—剪辑—音效」分工，让多个 Agent 协作把视频素材自动剪成**可编辑的剪映工程**，交人工做最后 QC；并用 Hermes 编排层把「视频生成 → 自动剪辑」串成从剧本到成片的端到端生产线。
 
-**Demo（85 秒成片）**：[`demo/成片示例-01.mp4`](demo/成片示例-01.mp4) · 1080p，由系统自动生成剪映工程后导出。
+**Demo（85 秒成片，由系统自动生成剪映工程后导出）**
+
+<video src="https://github.com/posia-12138/AI-Short-Drama-Multi-Agent-Collaboration/raw/main/demo/demo-01.mp4" controls muted width="400"></video>
+
+> 若上方视频未加载，点此直接观看：[demo/demo-01.mp4](demo/demo-01.mp4)（网页预览版 720p，原片 1080p）
 
 > ⚠️ 本页为**脱敏作品展示**：只讲架构与设计思路，不含合作项目的专有代码、剧本与业务数据。**剪辑系统与 Hermes 编排为本人开发；上游「视频生成」由他方完成，本人通过 Hermes 编排接入，不在本人贡献范围内。**
 
