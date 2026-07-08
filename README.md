@@ -4,7 +4,7 @@
 
 **Demo（85 秒成片，由系统自动生成剪映工程后导出）**
 
-[![点击播放 Demo](cover.jpg)](https://posia-12138.github.io/AI-Short-Drama-Multi-Agent-Collaboration/)
+[![点击播放 Demo](poster.jpg)](https://posia-12138.github.io/AI-Short-Drama-Multi-Agent-Collaboration/)
 
 > ▶ 点击封面 → 打开网页播放器在线播放（1080p）；或高清直链（点击为下载）：<https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4>
 
