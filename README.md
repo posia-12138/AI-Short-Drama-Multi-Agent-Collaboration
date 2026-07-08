@@ -4,9 +4,10 @@
 
 **Demo（85 秒成片，由系统自动生成剪映工程后导出）**
 
-[![点击观看 Demo](cover.jpg)](https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4)
+<!-- 👇 在 GitHub 网页版编辑器里，把视频文件拖到下面这一空行；GitHub 会自动插入一行 https://github.com/user-attachments/assets/... 并渲染成可播放的播放器 -->
 
-> ▶ 点击上方封面播放（1080p，浏览器直接播）；或打开直链：<https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4>
+
+> 高清 1080p 版（点击为下载后观看）：<https://aishinei2024.oss-cn-beijing.aliyuncs.com/resume_demo/short-drama-multi-agent-editing-demo-01.mp4>
 
 > ⚠️ 本页为**脱敏作品展示**：只讲架构与设计思路，不含合作项目的专有代码、剧本与业务数据。**剪辑系统与 Hermes 编排为本人开发；上游「视频生成」由他方完成，本人通过 Hermes 编排接入，不在本人贡献范围内。**
 
